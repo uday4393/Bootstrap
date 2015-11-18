@@ -62,7 +62,7 @@ ul.unstyled {
 }
 
 .navbar-brand {
-	padding: 13px 15px;
+	padding: 11px 15px;
 }
 
 
@@ -71,7 +71,7 @@ ul.unstyled {
    -------------------------------------- */
 #slide1 {
 	text-align: center;
-	margin-top: 60px;
+	margin-top: 55px;
 	background: url('../../images/carousel_medium_01.jpg') no-repeat;
 	width: 100%;
 	height: 400px;
